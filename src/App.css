@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.div1{
+  width: 400px;
+  height: 50px;
+
+text-align: center;
+margin-top: 50px;
+margin-left: 220px;
+}
+.h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+  
+}
+.div2{
+  width: 500px;
+  height: 450px;
+  margin-top: 60px;
+  margin-left: 200px;
+}
+.div2 button{
+  margin-top: 10px;
+ margin-left: 38px;
+  padding: 5px;
+  border-radius: 35px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+.red:hover{
+  background-color: red;
+  color: black;
+}
+.blue:hover{
+  background-color: blue;
+  color: white;
+}
+.green:hover{
+  background-color: green;
+  color: black;
+}
+.yellow:hover{
+  background-color: yellow;
+  color: black;
+}
+.orange:hover{
+  background-color: orange;
+  color: black;
+}
+.div3{
+  width: 450px;
+  height: 420px;
+ 
+  border-radius: 20px;
+  border: 2px dotted black;
+}
